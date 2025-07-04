@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om-kushare" alt="om-kushare" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Management**
+- 🔭 I’m currently working on **Hotel Management System**
 
 - 🌱 I’m currently learning **JavaScript **
 
@@ -29,9 +29,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om-kushare" alt="om-kushare" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Management**
+- 🔭 I’m currently working on **Hotel Management System**
 
-- 🌱 I’m currently learning **java,html5,css3,sql**
+- 🌱 I’m currently learning **javaScript**
 
 - 📫 How to reach me **omkushare29@gmail.com**
 
