@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Hotel Management**
 
-- 🌱 I’m currently learning **java,html5,css3,sql**
+- 🌱 I’m currently learning **java,JavaScript **
 
 - 📫 How to reach me **omkushare29@gmail.com**
 
