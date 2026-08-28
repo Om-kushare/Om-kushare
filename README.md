@@ -3,6 +3,9 @@
 <h3 align="center">Full Stack Java Developer | Java & Spring Developer</h3>
 
 <p align="center">
+  <a href="https://om-kushare.github.io/om-kushare-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
   <a href="mailto:omkushare29@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -14,9 +17,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=om-kushare&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
@@ -134,32 +135,6 @@ The main objective of this project is to allow customers to book vehicles accord
 
 `Java` `Spring MVC` `Spring JDBC` `MySQL` `JSP` `HTML` `CSS` `Bootstrap` `JavaScript`
 
-### 🏗️ Architecture
-
-```text
-User
-  │
-  ▼
-JSP / Frontend
-  │
-  ▼
-Spring MVC Controller
-  │
-  ▼
-Service Layer
-  │
-  ▼
-DAO / Repository
-  │
-  ▼
-Spring JDBC
-  │
-  ▼
-MySQL Database
-```
-
----
-
 # 🏨 Hotel Management System
 
 A responsive web-based hotel management application developed for managing hotel booking, registration, and billing operations.
@@ -196,22 +171,6 @@ A responsive web-based hotel management application developed for managing hotel
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-kushare&show_icons=true&theme=default&hide_border=true" alt="Om's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-kushare&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-kushare&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 # 📜 Certifications
 
 * ☕ **Java Full Stack Development** — Giri's Tech Hub
@@ -220,23 +179,6 @@ A responsive web-based hotel management application developed for managing hotel
 * 🧠 **LLM for Young Developers — Foundational Course**
 
 ---
-
-# 🌱 Currently Learning
-
-```text
-Java
-   ↓
-Spring Boot
-   ↓
-Spring MVC
-   ↓
-REST APIs
-   ↓
-MySQL
-   ↓
-Full Stack Development
-```
-
 I am continuously improving my **Java, Spring Boot, database, REST API, and problem-solving skills**.
 
 ---
